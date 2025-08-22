@@ -1,0 +1,15 @@
+Knowledge:
+  - NA - no files uploaded. All references currently exist within the instructions config
+
+Recommended Model:
+  - No Recommended Model - Users will use any model they prefer
+
+Capabilities:
+  Web Search: true
+  Canvas: false
+  Image Generation: false
+  # following is true, but be sure to check the instructions config for explicit limitations of scope.
+  Code Interpreter & Data Analysis: true
+  
+Actions:
+  - NA - none at this time
