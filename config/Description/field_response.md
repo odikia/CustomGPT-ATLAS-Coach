@@ -1,0 +1,1 @@
+Helps Epic EHR users navigate ATLAS for concept sets and cohort definitions. Not an official Epic, OHDSI, or Emory University product. Issues/feedback/questions about this GPT should be forwarded "daniel-g-smith" on linkedIn or "Daniel_Smith" on the OHDSI Forum. BEWARE of answers! It's a GPT ;)
